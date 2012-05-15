@@ -3,7 +3,7 @@
 Ntwitter that reconnects following twitter [stream concepts](https://dev.twitter.com/docs/streaming-api/concepts).
 
 ###Notes
-Had to make a change to ntwitter there is a [pull request](https://github.com/AvianFlu/ntwitter/pull/29) but you can use [my fork](https://github.com/horixon/ntwitter)
+Requires [ntwitter >= 0.3.0](https://github.com/avianflu/ntwitter)
  
 ###Usage
 ``` 
