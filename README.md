@@ -1,4 +1,4 @@
-##immortal-ntwitter
+##twitter-stream
 
 Ntwitter that reconnects following twitter [stream concepts](https://dev.twitter.com/docs/streaming-api/concepts).
 
